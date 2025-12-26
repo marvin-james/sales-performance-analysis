@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,product,category,quantity,price,region
+1,2024-01-10,C001,Laptop,Electronics,1,1200,West
+2,2024-01-12,C002,Phone,Electronics,2,800,East
+3,2024-02-05,C003,Headphones,Accessories,3,150,South
+4,2024-02-18,C001,Monitor,Electronics,1,300,West
+5,2024-03-10,C004,Keyboard,Accessories,2,100,North
